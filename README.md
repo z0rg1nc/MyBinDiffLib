@@ -1,0 +1,2 @@
+# MyBinDiffLib
+Binady diff helper
